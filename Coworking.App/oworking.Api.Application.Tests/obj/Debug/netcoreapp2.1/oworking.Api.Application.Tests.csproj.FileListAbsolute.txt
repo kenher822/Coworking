@@ -1,0 +1,13 @@
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\oworking.Api.Application.Tests.deps.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\oworking.Api.Application.Tests.runtimeconfig.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\oworking.Api.Application.Tests.runtimeconfig.dev.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\oworking.Api.Application.Tests.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\bin\Debug\netcoreapp2.1\oworking.Api.Application.Tests.pdb
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\obj\Debug\netcoreapp2.1\oworking.Api.Application.Tests.csproj.CoreCompileInputs.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\obj\Debug\netcoreapp2.1\oworking.Api.Application.Tests.AssemblyInfoInputs.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\obj\Debug\netcoreapp2.1\oworking.Api.Application.Tests.AssemblyInfo.cs
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\obj\Debug\netcoreapp2.1\oworking.Api.Application.Tests.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\oworking.Api.Application.Tests\obj\Debug\netcoreapp2.1\oworking.Api.Application.Tests.pdb

@@ -1,0 +1,8 @@
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\bin\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.deps.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\bin\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\bin\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.pdb
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\obj\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\obj\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.AssemblyInfoInputs.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\obj\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.AssemblyInfo.cs
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\obj\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.Api.Application.Contracts\obj\Debug\netcoreapp2.1\Coworking.Api.Application.Contracts.pdb

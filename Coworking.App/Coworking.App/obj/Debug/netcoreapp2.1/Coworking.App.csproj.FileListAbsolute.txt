@@ -1,0 +1,13 @@
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\bin\Debug\netcoreapp2.1\Coworking.App.deps.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\bin\Debug\netcoreapp2.1\Coworking.App.runtimeconfig.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\bin\Debug\netcoreapp2.1\Coworking.App.runtimeconfig.dev.json
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\bin\Debug\netcoreapp2.1\Coworking.App.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\bin\Debug\netcoreapp2.1\Coworking.App.pdb
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.csproj.CoreCompileInputs.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.RazorAssemblyInfo.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.RazorAssemblyInfo.cs
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.AssemblyInfoInputs.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.AssemblyInfo.cs
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.dll
+D:\Proyectos\Coworking\Coworking\Coworking.App\Coworking.App\obj\Debug\netcoreapp2.1\Coworking.App.pdb
