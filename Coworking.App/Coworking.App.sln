@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coworking.App", "Coworking.App\Coworking.App.csproj", "{8DFC07B4-E4D9-48B7-8C19-60FF9A981808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DFC07B4-E4D9-48B7-8C19-60FF9A981808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFC07B4-E4D9-48B7-8C19-60FF9A981808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFC07B4-E4D9-48B7-8C19-60FF9A981808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFC07B4-E4D9-48B7-8C19-60FF9A981808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5029121-FA65-4F1A-A880-835661B93571}
+	EndGlobalSection
+EndGlobal
